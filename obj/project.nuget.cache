@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZNl5MeCv9HQUZ/nWz+FA4q6tr5UkB2GM480eefXoa5hinnjst9pgCtzy3mPfLea2L/VGyAYD31hENYYOdHNFg==",
+  "success": true,
+  "projectFilePath": "/home/kotlinovsky/Рабочий стол/Projects/KLang/KLang.fsproj",
+  "expectedPackageFiles": [
+    "/home/kotlinovsky/.nuget/packages/fparsec/1.1.1/fparsec.1.1.1.nupkg.sha512",
+    "/home/kotlinovsky/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512",
+    "/home/kotlinovsky/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
